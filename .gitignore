@@ -1,0 +1,10 @@
+*.log
+*.hi
+*.o
+*.errors
+*.bak
+*.before-*
+xmonad-x86_64-linux
+.cache/
+*.key
+*.pem
